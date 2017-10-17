@@ -1,6 +1,8 @@
+/* Slider */
+
 .slider {
     -webkit-appearance: none;
-    width: 100%;
+    width: 80%;
     height: 15px;
     border-radius: 5px;   
     background: #d3d3d3;
@@ -8,6 +10,7 @@
     opacity: 0.7;
     -webkit-transition: .2s;
     transition: opacity .2s;
+    display: inline-block;
 }
 
 .slider::-webkit-slider-thumb {
@@ -27,3 +30,35 @@
     background: #4CAF50;
     cursor: pointer;
 }
+
+/* Main Page */
+
+#container {
+    width: 80%;
+    margin: auto;
+}
+
+#header {
+    margin-bottom: 20px;
+}
+
+#header h1 {
+    text-align: center;
+}
+
+#question {
+    text-align: center;
+    padding-bottom: 20px
+}
+
+#question h3 {
+    
+}
+
+#box1, #box2, #box3, #box4, #box5 {
+    width: 20%;
+    height: 50px;
+    float: left;
+    text-align: center;  
+}
+

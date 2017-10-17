@@ -1,2 +1,2 @@
 # 2043MAPA
-Transmedia module repo
+Transmedia module repository

@@ -2516,7 +2516,6 @@ html.pixel-ratio-3 .list-block ul:before {
   -webkit-transform-origin: 50% 100%;
   transform-origin: 50% 100%;
 }
-
 html.pixel-ratio-2 .list-block ul:after {
   -webkit-transform: scaleY(0.5);
   transform: scaleY(0.5);
@@ -2697,7 +2696,6 @@ html.pixel-ratio-3 .list-block ul:after {
   -webkit-transform-origin: 50% 100%;
   transform-origin: 50% 100%;
 }
-
 html.pixel-ratio-2 .list-block .item-inner:after {
   -webkit-transform: scaleY(0.5);
   transform: scaleY(0.5);
